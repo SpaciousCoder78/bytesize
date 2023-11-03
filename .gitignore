@@ -1,2 +1,4 @@
 ### Ignoring cmake build folder ###
 cmake-build-debug
+###Ignoring cmake lists because I want github to show my project as c++###
+CMakeLists.txt
