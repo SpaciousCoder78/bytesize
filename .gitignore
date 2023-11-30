@@ -1,6 +1,6 @@
 ### Ignoring the out directory ###
 out
 
-CMakeLists.txt
+
 
 .vs
